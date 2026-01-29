@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+}
+
+.iPhone161 {
+  position: relative;
+  width: 375px;
+  height: 813px;
+  overflow: hidden;
+
+  .frame9 {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 221px 0px 114px 3px;
+    width: 375px;
+    height: 813px;
+    background-image: url(../image/mkycnjzl-ne5uej1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .frame {
+      position: absolute;
+      top: 363px;
+      left: 35px;
+      width: 277px;
+      height: 179px;
+    }
+
+    .autoWrapper6 {
+      display: flex;
+      position: relative;
+      align-items: flex-start;
+      align-self: stretch;
+      justify-content: space-between;
+
+      .frame2 {
+        width: 83px;
+        height: 132px;
+      }
+
+      .autoWrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-self: stretch;
+        margin-top: 120px;
+
+        .frame3 {
+          margin-top: 94px;
+          margin-left: 15px;
+          width: 83px;
+          height: 132px;
+        }
+      }
+
+      .autoWrapper5 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-self: stretch;
+
+        .autoWrapper2 {
+          display: flex;
+          align-items: flex-start;
+          align-self: stretch;
+          justify-content: space-between;
+          padding-right: 8px;
+          padding-left: 17px;
+
+          .frame4 {
+            margin-top: 20px;
+            width: 83px;
+            height: 132px;
+          }
+
+          .frame5 {
+            margin-top: 66px;
+            width: 83px;
+            height: 132px;
+          }
+        }
+
+        .autoWrapper4 {
+          display: flex;
+          align-items: flex-start;
+          align-self: stretch;
+          justify-content: space-between;
+          margin-top: 10px;
+          padding-right: 0;
+          padding-left: 0;
+
+          .frame6 {
+            margin-top: 101px;
+            width: 83px;
+            height: 132px;
+          }
+
+          .frame7 {
+            margin-top: 114px;
+            width: 83px;
+            height: 132px;
+          }
+
+          .autoWrapper3 {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            align-self: stretch;
+
+            .frame8 {
+              margin-left: 25px;
+              width: 83px;
+              height: 132px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .frame10 {
+    position: absolute;
+    top: 45px;
+    left: 35px;
+    width: 391px;
+    height: 164px;
+  }
+
+  .frame11 {
+    position: absolute;
+    top: 194px;
+    left: 35px;
+    width: 83px;
+    height: 132px;
+  }
+}
